@@ -1,0 +1,6 @@
+El nombre del estudiante es: Juan
+Materias y Notas: 
+Matemaricas: 3
+Ingles: 4
+Programación: 5
+ha obtenido un promedio de: 4
